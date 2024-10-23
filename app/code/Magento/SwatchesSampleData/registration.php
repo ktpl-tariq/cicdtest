@@ -7,3 +7,4 @@
 use \Magento\Framework\Component\ComponentRegistrar;
 
 ComponentRegistrar::register(ComponentRegistrar::MODULE, 'Magento_SwatchesSampleData', __DIR__);
+#3123
